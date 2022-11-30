@@ -1,0 +1,110 @@
+.logo{
+    position: absolute;
+    width: 232px;
+    height: 40px;
+    left: 76px;
+    top: 62px;
+}
+
+.container{
+    position: absolute;
+    width: 457px;
+    height: 498px;
+    left: 69px;
+    top: 172px;
+}
+
+.signin{
+    
+position: absolute;
+width: 104.97px;
+height: 45px;
+left: 71.12px;
+top: 172px;
+
+}
+
+.passtext{
+    width: 454.88px;
+    height: 64px;
+    left: 71.12px;
+    top: 458px;
+}
+
+.signuptext{
+   
+width: 104.97px;
+height: 45px;
+left: 71.12px;
+top: 172px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.email{
+    
+left: 0%;
+right: 91.61%;
+top: 0%;
+bottom: 68.75%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #999999;
+
+}
+
+.text{
+   
+width: 454.88px;
+height: 64px;
+left: 71.12px;
+top: 345px;
+}
+
+.password{
+    width: 67.86px;
+    height: 20px;
+    left: 71.12px;
+    top: 458px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    color: #999999;
+    
+
+}
+
+.button{
+   position:absolute;
+    width: 454.88px;
+    height: 53px;
+    left: 100px;
+    top: 350px;
+    
+    
+    background: #EB5148;
+    box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    cursor: pointer;
+}
